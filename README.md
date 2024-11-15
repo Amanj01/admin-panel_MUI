@@ -1,5 +1,4 @@
-
-Here's a sample README.md for your admin panel project that was created using MUI (Material UI) and Vite, with features like user management, report scheduling, and data visualization with charts.
+see the web: https://amanj-admin-panel.web.app/
 
 Admin Panel with MUI, Vite, and Chart Visualizations
 This is an admin panel built with Material UI (MUI) and Vite that provides features for managing users, scheduling reports, and visualizing data through charts.
